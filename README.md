@@ -21,7 +21,7 @@ This repository contains multiple projects focused on language translation, incl
 - **Data Handling**: ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white), ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 
 ## 📁 Project Structure
-.
+"""
 ├── data/ # Data files for training the models
 ├── images/ # Images used in the README and GUI
 ├── templates/ # HTML templates for the Flask app
@@ -39,7 +39,7 @@ This repository contains multiple projects focused on language translation, incl
 ├── README.md # Project documentation
 ├── app.py # Flask app script
 └── gui.py # Tkinter GUI script
-
+"""
 
 ## 🎓 How to Use
 
