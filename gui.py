@@ -1,8 +1,8 @@
 import tkinter as tk
 from tkinter import messagebox, font
-from keras.models import load_model
+from tensorflow.keras.models import load_model
 import json
-from keras.preprocessing.sequence import pad_sequences
+from tensorflow.keras.preprocessing.sequence import pad_sequences
 from tensorflow.keras.preprocessing.text import tokenizer_from_json
 import numpy as np
 
